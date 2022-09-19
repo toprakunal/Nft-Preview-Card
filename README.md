@@ -32,6 +32,7 @@ Desktop-Laptop size
 ![desktop-design](https://user-images.githubusercontent.com/58954367/191055721-aeb991f9-8e70-4712-a6a5-02eddd7cf254.jpg)
 
 Mobile size
+
 ![mobile-design](https://user-images.githubusercontent.com/58954367/191056065-22b3834e-24b1-4abc-9cc2-78d50fad9f5f.png)
 
 
