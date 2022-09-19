@@ -63,8 +63,8 @@ I want to compeletly confident with using bootstrap and flex.
 
 ### Useful resources
 
-- [Bootstrap Card doc]([https://www.example.com](https://getbootstrap.com/docs/4.0/components/card/)) - This helped me for bootstrap card structure. 
-- [Image Overlay]([https://www.example.com](https://www.youtube.com/watch?v=exb2ab72Xhs)) - I understand image overlay hovering effects with this video.
+- [Bootstrap Card doc](https://getbootstrap.com/docs/4.0/components/card/) - This helped me for bootstrap card structure. 
+- [Image Overlay](https://www.youtube.com/watch?v=exb2ab72Xhs) - I understand image overlay hovering effects with this video.
 
 
 
